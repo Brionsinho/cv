@@ -1,0 +1,137 @@
+{
+  "personal": {
+    "nombre": "Rubén Brión",
+    "titulo": "Técnico Informático",
+    "subtitulo": "Experto en Ciberseguridad",
+    "emoji": "🛡️",
+    "acercaDeMi": "Técnico informático con más de dos años de experiencia en el sector. Especializado en networking y ciberseguridad. Apasionado con la tecnología en general y actualmente comprometido en mejorar mis habilidades terminando un grado universitario. Busco hacer mi aportación a un equipo dinámico donde pueda aplicar mis conocimientos y, sobre todo, conseguir otros nuevos a fin de mejorar como profesional."
+  },
+  "contacto": {
+    "email": "rubrinie@gmail.com",
+    "telefono": "+34 669 378 490",
+    "linkedin": "https://www.linkedin.com/in/ruben-brion",
+    "disponible": true
+  },
+  "experiencia": [
+    {
+      "puesto": "Técnico de Sistemas",
+      "empresa": "Niucom 180 SL",
+      "periodo": "Marzo 2023 - Junio 2025",
+      "color": "green",
+      "tareas": [
+        "Gestión de infraestructuras de red y administración de controles de acceso",
+        "Provisión de soporte técnico y resolución de incidencias",
+        "Implementación y gobernanza de protocolos de ciberseguridad",
+        "Desarrollo y supervisión de software y hardware en dispositivos móviles",
+        "Gestión de recursos de Cloud Computing"
+      ]
+    },
+    {
+      "puesto": "Técnico Informático",
+      "empresa": "FINSA",
+      "periodo": "Marzo 2022 - Junio 2022",
+      "color": "lime",
+      "tareas": [
+        "Asesoramiento a usuarios para la configuración y uso de computadores",
+        "Gestión de Active Directory",
+        "Configuración de redes WLAN, subredes y puntos de acceso",
+        "Gestión de redes e infraestructuras técnicas de la compañía"
+      ]
+    },
+    {
+      "puesto": "Carpintero",
+      "empresa": "Muebles Nolito SL",
+      "periodo": "Junio 2016 - Marzo 2020",
+      "color": "emerald",
+      "descripcion": "Fabricación e instalación de mobiliario, conocimientos básicos de electricidad y diseño de espacios con programas 2D y 3D."
+    }
+  ],
+  "actualidad": {
+    "titulo": "Actualmente",
+    "descripcion": "Gestiono trabajos de soporte informático esporádicamente. También realizo diagnósticos, mantenimientos, limpieza y actualizaciones de software y hardware a diferentes equipos electrónicos."
+  },
+  "educacion": [
+    {
+      "titulo": "Grado en Ingeniería Informática",
+      "institucion": "UOC",
+      "periodo": "2023 - Actualidad",
+      "emoji": "🎓",
+      "color": "green"
+    },
+    {
+      "titulo": "Especialización en Ciberseguridad",
+      "institucion": "IES San Clemente",
+      "periodo": "2022 - 2023",
+      "emoji": "🛡️",
+      "color": "lime"
+    },
+    {
+      "titulo": "Técnico Superior en Sistemas de Telecomunicación",
+      "institucion": "Politécnico de Santiago",
+      "periodo": "2020 - 2022",
+      "emoji": "💻",
+      "color": "emerald"
+    },
+    {
+      "titulo": "Bachillerato",
+      "institucion": "IES Campo de San Alberto",
+      "periodo": "2013 - 2015",
+      "emoji": "📚",
+      "color": "green"
+    }
+  ],
+  "idiomas": [
+    {
+      "idioma": "Inglés",
+      "nivel": "Excelente (C1)",
+      "emoji": "🇬🇧",
+      "color": "green"
+    },
+    {
+      "idioma": "Español",
+      "nivel": "Nativo",
+      "emoji": "🇪🇸",
+      "color": "lime"
+    },
+    {
+      "idioma": "Gallego",
+      "nivel": "Nativo",
+      "emoji": "🏴",
+      "color": "emerald"
+    }
+  ],
+  "certificaciones": [
+    {
+      "titulo": "Técnico en Ciberseguridad",
+      "institucion": "INCIBE",
+      "año": "2024",
+      "emoji": "🏆"
+    }
+  ],
+  "habilidades": {
+    "software": {
+      "titulo": "Software",
+      "emoji": "💾",
+      "items": ["Odoo", "Proxmox", "Synology", "Wireshark"],
+      "color": "green"
+    },
+    "redes": {
+      "titulo": "Redes",
+      "emoji": "🌐",
+      "items": ["Monitorización", "Configuración", "Firewall", "Proxys", "Honey Pots"],
+      "color": "lime"
+    },
+    "sistemas": {
+      "titulo": "Sistemas Operativos",
+      "emoji": "🖥️",
+      "items": ["Windows", "Linux", "Kali", "Parrot"],
+      "color": "emerald"
+    },
+    "auditoria": {
+      "titulo": "Auditoría",
+      "emoji": "🔍",
+      "items": ["Blue Team", "Control de Riesgos", "Análisis de Seguridad"],
+      "color": "green"
+    }
+  }
+}
