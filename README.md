@@ -1,4 +1,4 @@
-# 🚀 Currículum Web
+# Currículum Web
 Currículum web interactivo con diseño moderno estilo "hacker" en tonos verdes.
 
 ## Estructura de Archivos
